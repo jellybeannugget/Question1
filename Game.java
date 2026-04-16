@@ -1,4 +1,4 @@
-public class Game {
+/*public class Game {
     private level levelOne;
     private level levelTwo;
     private level levelThree;
@@ -51,3 +51,4 @@ public int playManyTimes(int num)
     return bestScore;
 }
 }
+*/
